@@ -1,6 +1,7 @@
 # data-migrations-mongodb-
 ### in terminal
 `
+
      db.runCommand({renameCollection:'db1.lcol',to:'db2.lcol'})
 
 `
